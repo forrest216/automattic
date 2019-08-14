@@ -1,85 +1,113 @@
 [{
-   "code": "HKG",
-   "city_name": "Hong Kong"
-}, {
-   "code": "SIN",
-   "city_name": "Singapore"
-}, {
-   "code": "AMS",
-   "city_name": "Schiphol Zuid"
-}, {
-   "code": "SYD",
-   "city_name": "Sydney"
-}, {
-   "code": "CDG",
-   "city_name": "Le Mesnil-Amelot"
-}, {
-   "code": "NRT",
-   "city_name": "Narita-shi"
-}, {
-   "code": "BOM",
-   "city_name": "Mumbai"
-}, {
-   "code": "YYZ",
-   "city_name": "Mississauga"
-}, {
-   "code": "MIA",
-   "city_name": "Miami"
-}, {
-   "code": "ATL",
-   "city_name": "Atlanta"
-}, {
-   "code": "TPE",
-   "city_name": "Taoyuan City"
-}, {
-   "code": "GRU",
-   "city_name": "Guarulhos"
-}, {
-   "code": "FRA",
-   "city_name": "Frankfurt"
-}, {
-   "code": "EWR",
-   "city_name": "Newark"
-}, {
-   "code": "VIE",
-   "city_name": "Klein-Neusiedl"
-}, {
-   "code": "ORD",
-   "city_name": "Chicago"
-}, {
-   "code": "BUR",
-   "city_name": "Burbank"
-}, {
-   "code": "DCA",
-   "city_name": "Arlington"
+   "code": "KIX",
+   "city_name": "Tajiri-cho",
+   "color": [116, 10, 255]
 }, {
    "code": "SJC",
-   "city_name": "San Jose"
+   "city_name": "San Jose",
+   "color": [76, 0, 92]
 }, {
-   "code": "DFW",
-   "city_name": "Dallas"
-}, {
-   "code": "SEA",
-   "city_name": "Seattle"
-}, {
-   "code": "ARN",
-   "city_name": "Märst"
+   "code": "GRU",
+   "city_name": "Guarulhos",
+   "color": [255, 80, 5]
 }, {
    "code": "MXP",
-   "city_name": "Cardano al Campo"
+   "city_name": "Cardano al Campo",
+   "color": [0, 92, 49]
 }, {
-   "code": "KIX",
-   "city_name": "Tajiri-cho"
+   "code": "ATL",
+   "city_name": "Atlanta",
+   "color": [128, 128, 128]
 }, {
-   "code": "MAD",
-   "city_name": "Madrid"
+   "code": "TPE",
+   "city_name": "Taoyuan City",
+   "color": [220, 20, 60]
 }, {
-   "code": "LHR",
-   "city_name": "Hounslow"
-}, {
-   "code": "JNB",
-   "city_name": "Johannesburg"
+   "code": "BOM",
+   "city_name": "Mumbai",
+   "color": [191, 255, 0]
 }, {
    "code": "DEN",
-   "city_name": "Denver"
+   "city_name": "Denver",
+   "color": [0, 153, 143]
+}, {
+   "code": "LHR",
+   "city_name": "Hounslow",
+   "color": [255, 0, 16]
+}, {
+   "code": "HKG",
+   "city_name": "Hong Kong",
+   "color": [255, 168, 187]
+}, {
+   "code": "VIE",
+   "city_name": "Klein-Neusiedl",
+   "color": [255, 255, 128]
+}, {
+   "code": "MIA",
+   "city_name": "Miami",
+   "color": [255, 255, 0]
+}, {
+   "code": "FRA",
+   "city_name": "Frankfurt",
+   "color": [94, 241, 242]
+}, {
+   "code": "SEA",
+   "city_name": "Seattle",
+   "color": [143, 124, 0]
+}, {
+   "code": "DFW",
+   "city_name": "Dallas",
+   "color": [255, 255, 255]
+}, {
+   "code": "SIN",
+   "city_name": "Singapore",
+   "color": [252, 15, 192]
+}, {
+   "code": "YYZ",
+   "city_name": "Mississauga",
+   "color": [255, 127, 80]
+}, {
+   "code": "DCA",
+   "city_name": "Arlington",
+   "color": [240, 163, 255]
+}, {
+   "code": "BUR",
+   "city_name": "Burbank",
+   "color": [157, 204, 0]
+}, {
+   "code": "NRT",
+   "city_name": "Narita-shi",
+   "color": [43, 206, 72]
+}, {
+   "code": "ORD",
+   "city_name": "Chicago",
+   "color": [153, 63, 0]
+}, {
+   "code": "ARN",
+   "city_name": "Märst",
+   "color": [255, 204, 153]
+}, {
+   "code": "MAD",
+   "city_name": "Madrid",
+   "color": [224, 255, 102]
+}, {
+   "code": "JNB",
+   "city_name": "Johannesburg",
+   "color": [148, 255, 181]
+}, {
+   "code": "CDG",
+   "city_name": "Le Mesnil-Amelot",
+   "color": [153, 0, 0]
+}, {
+   "code": "AMS",
+   "city_name": "Schiphol Zuid",
+   "color": [255, 165, 0]
+}, {
+   "code": "SYD",
+   "city_name": "Sydney",
+   "color": [66, 102, 0]
+}, {
+   "code": "EWR",
+   "city_name": "Newark",
+   "color": [0, 51, 128]
 }]
