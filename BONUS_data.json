@@ -1,0 +1,85 @@
+[{
+   "code": "HKG",
+   "city_name": "Hong Kong"
+}, {
+   "code": "SIN",
+   "city_name": "Singapore"
+}, {
+   "code": "AMS",
+   "city_name": "Schiphol Zuid"
+}, {
+   "code": "SYD",
+   "city_name": "Sydney"
+}, {
+   "code": "CDG",
+   "city_name": "Le Mesnil-Amelot"
+}, {
+   "code": "NRT",
+   "city_name": "Narita-shi"
+}, {
+   "code": "BOM",
+   "city_name": "Mumbai"
+}, {
+   "code": "YYZ",
+   "city_name": "Mississauga"
+}, {
+   "code": "MIA",
+   "city_name": "Miami"
+}, {
+   "code": "ATL",
+   "city_name": "Atlanta"
+}, {
+   "code": "TPE",
+   "city_name": "Taoyuan City"
+}, {
+   "code": "GRU",
+   "city_name": "Guarulhos"
+}, {
+   "code": "FRA",
+   "city_name": "Frankfurt"
+}, {
+   "code": "EWR",
+   "city_name": "Newark"
+}, {
+   "code": "VIE",
+   "city_name": "Klein-Neusiedl"
+}, {
+   "code": "ORD",
+   "city_name": "Chicago"
+}, {
+   "code": "BUR",
+   "city_name": "Burbank"
+}, {
+   "code": "DCA",
+   "city_name": "Arlington"
+}, {
+   "code": "SJC",
+   "city_name": "San Jose"
+}, {
+   "code": "DFW",
+   "city_name": "Dallas"
+}, {
+   "code": "SEA",
+   "city_name": "Seattle"
+}, {
+   "code": "ARN",
+   "city_name": "Märst"
+}, {
+   "code": "MXP",
+   "city_name": "Cardano al Campo"
+}, {
+   "code": "KIX",
+   "city_name": "Tajiri-cho"
+}, {
+   "code": "MAD",
+   "city_name": "Madrid"
+}, {
+   "code": "LHR",
+   "city_name": "Hounslow"
+}, {
+   "code": "JNB",
+   "city_name": "Johannesburg"
+}, {
+   "code": "DEN",
+   "city_name": "Denver"
+}]
