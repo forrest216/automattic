@@ -4,6 +4,6 @@
 
 ### BONUS_data.json is what you want to see.
 
-#### With a little help from [tdreyno](https://gist.github.com/tdreyno/4278655) and Python
+#### With a little help from [this airport data](https://gist.github.com/tdreyno/4278655) and Python
 
 
